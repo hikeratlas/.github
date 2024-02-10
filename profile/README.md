@@ -11,3 +11,4 @@ You may be interested in:
 - [basemap](https://github.com/hikeratlas/basemap) - build a hiking-focused basemap
 - [website](https://github.com/hikeratlas/website) - a Remix-based web frontend designed for Cloudflare Pages
 - [qrank](https://github.com/hikeratlas/qrank) - scripts to produce a SQLite QRank DB
+- [routes](https://github.com/hikeratlas/routes) - scripts to canonicalize OSM objects into hiking trails
